@@ -1,43 +1,42 @@
-# 👋 Hi, I’m Ibrahim Rahimi
+## 👋 Hi, I'm Ibrahim Rahimi
 
-I am a Software Developer and Data Engineer with over 5 years of experience in Python, JavaScript, and cloud technologies. I specialize in full-stack development, microservices, and data pipelines using modern frameworks and cloud platforms.
+Backend software engineer with 8 years of experience building production systems in Python and C# on Azure and GCP. I design, build, and operate cloud-native services, data platforms, and workflow automation, and I'm now deepening my work in cloud architecture and applied AI.
 
-## 🚀 Expertise
-- **Web Development**: Full-stack development with Python (Flask), JavaScript (React), and Odoo.
-- **Microservices Architecture**: Designing and deploying microservices for scalable and distributed systems.
-- **Cloud Architecture**: Experience with Google Cloud Platform (GCP) services such as Cloud Functions, Cloud Storage (GCS), BigQuery, and more.
-- **Data Engineering**: Building scalable data pipelines and Business Intelligence systems.
-- **API Development**: Expertise in developing and maintaining RESTful APIs.
-- **CI/CD**: Proficient in Docker, Git, and CI/CD pipelines for continuous integration and deployment.
+### 🚀 What I do
 
-## 🔧 Current Tools & Technologies
-- **Languages**: Python, JavaScript, PHP, SQL
-- **Frameworks**: Flask, React.js, Symfony
-- **Databases**: PostgreSQL, MySQL, BigQuery
-- **Cloud**: Google Cloud Platform (GCP)
-- **DevOps**: Docker, CI/CD, Linux
+- **Backend & APIs:** RESTful services with Python (FastAPI, Flask), C# (ASP.NET Core), and Symfony
+- **Cloud & data platforms:** Azure and Google Cloud (BigQuery, Cloud Functions), including a data platform built from concept to production
+- **Reliability:** automated testing (pytest), CI/CD with GitHub Actions and Azure DevOps, Docker and Kubernetes
+- **Applied AI:** backend and integration work on an in-house LLM agent platform on Azure AI Foundry
+- **Engineering practice:** design docs, mentoring, on-call, and explaining architecture to non-technical stakeholders
 
-## 🌱 I’m currently learning
-- **React**: Enhancing my skills in modern frontend development with React.
-- **Rust**: Exploring the power of Rust for system programming and web assembly.
+### 🔧 Tools & technologies
 
-## 📚 Projects
-- **DataHub**: Developed a scalable Business Intelligence (BI) system using Python, GCP services (BigQuery, GCS), and integrated AI/ML features for advanced analytics.
-- **Afghan Personnel and Payment System (APPS)**: Led the development of an integrated payroll and human resource system for the Afghan government.
+- **Languages:** Python, C#, TypeScript, JavaScript, PHP, SQL
+- **Frameworks:** FastAPI, Flask, ASP.NET Core, Symfony, React, Odoo
+- **Databases:** PostgreSQL, SQL Server, MySQL, BigQuery
+- **Cloud & DevOps:** Azure, Google Cloud, Docker, Kubernetes, GitHub Actions, Azure DevOps, Linux
 
-## 💼 Work Experience
-- **Full Stack Software Developer** at finanzvergleich.com GmbH (April 2023 – Present)
-- **Software Developer** at Voltfang GmbH (August 2022 – March 2023)
-- **Software Developer** at NETLINKS LTD (March 2018 – August 2021)
+### 🌱 Currently learning
 
-## 💞️ Looking to collaborate on
-- Python projects (web development, data engineering, microservices, or automation)
-- Open-source projects focused on cloud computing or machine learning
+- Azure cloud architecture
+- Applied LLM engineering: retrieval, evaluation, and deployment
 
-## 📫 How to reach me?
-- Email: ebrahimrahimilaziri@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ibrahim-rahimi)
+### 📚 Selected work
 
-<!---
-ibrahimrahimi/ibrahimrahimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+Most of my work is proprietary, so these are summaries rather than repositories. Public projects are coming.
+
+- **Marketing data platform (GCP):** designed and built as the sole engineer, from first discussions to production in six months. It became the company's core data infrastructure.
+- **Invoice and cost-forecast automation:** a validation and approval platform for contractor submissions that saves 600+ hours of manual work a month.
+- **Government ERP (Odoo):** HR and payroll modules for a large government ministry, later adapted for a second ministry.
+
+### 💼 Experience
+
+- **Software Engineer**, Venture Global LNG: July 2025 – present
+- **Full-Stack Developer**, finanzvergleich.com GmbH: April 2023 – June 2025
+- **Software Developer**, Voltfang GmbH: March 2022 – March 2023
+- **Software Developer**, Netlinks Inc.: March 2018 – August 2021
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/ibrahimrahimii) · ebrahimrahimilaziri@gmail.com
